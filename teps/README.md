@@ -294,3 +294,4 @@ This is the complete list of Tekton teps:
 |[TEP-0124](0124-distributed-tracing-for-tasks-and-pipelines.md) | Distributed tracing for Tasks and Pipelines | implementable | 2022-10-16 |
 |[TEP-0125](0125-add-credential-filter-to-entrypoint-logger.md) | Add credential filter to entrypoint logger | proposed | 2022-10-27 |
 |[TEP-0127](0127-larger-results-via-sidecar-logs.md) | Larger Results via Sidecar Logs | implemented | 2022-12-15 |
+|[TEP-0131](0131-capture-traces-for-task-pod-events.md) | Capture traces for task pod events | proposed | 2023-02-10 |
